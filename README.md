@@ -3,4 +3,4 @@
 
 ### Puedes verlo online aquí
 
-https://codepen.io/nicolas-guanzini/full/qBxXBKb
+https://nicolasguanzini.github.io/portafoliosimpleFCC/
